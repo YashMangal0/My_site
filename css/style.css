@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Shizuru', cursive;
+    font-size:5.5rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Shizuru', cursive;
+font-size: 40px;
+color:#66BFBF;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Shizuru', cursive;
+font-family: 'Staatliches', cursive;
+color: #11999E;
+}
+
+
+span{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+position: absolute;
+top: 50px;    
+right: 300px;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    padding: 100px;
+    position: relative;
+}
+.Middle-container{
+
+}
+.Bottom-container{
+
+}
+.Coding{
+  width:500px;
+  height: 500px;
+}
+.footer-link{
+    color: #11999E;
+}
+.h1low{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Shizuru', cursive;
+    font-size: 40px;
+    color:#66BFBF;
+    padding-top: 2px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;;
+}
+.webd{
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.Coding{
+    width: 25%;
+    height: 25%;
+    float: right;
+}
+hr{
+    width:50px;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: #e4f9f4;
+    border-width: 5px;
+}
+p{
+    font-size: 20px;
+}
